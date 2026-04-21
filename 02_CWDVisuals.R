@@ -329,7 +329,7 @@ stuff2 <- rbind(
 kableExtra::kable(stuff2, digits = 2)
 
 # Plot Figure 3 ####
-BigOut <- readRDS('./TimeSinceInfection/UpdatedSurvival_LargePosterior_Jan25.rds') #large posterior where we monitored extra params
+BigOut <- readRDS('UpdatedSurvival_LargePosterior.rds') #large posterior where we monitored extra params
 mydays <- paste0('daysinfected[133, ', 1:697, ']')
 mydays <- mydays[-c(240:330)]
 mysurvs <- paste0('me.phi[133, ', 1:697, ']')
