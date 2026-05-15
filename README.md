@@ -1,4 +1,6 @@
 # CWD_Infection
+[![DOI](https://zenodo.org/badge/1217177440.svg)](https://doi.org/10.5281/zenodo.20209306)
+
 Code for: Host-pathogen dynamics and the hidden hazards of chronic wasting disease
 Authors: Heather E. Gaya, Marcelo H. Jorge, Michael J. Chamberlain, Amy V. Nalls,  Nathaniel D. Denkers, Candace K. Mathiason, Mark G. Ruder, Gino J. D’Angelo, and Richard B. Chandler
 
